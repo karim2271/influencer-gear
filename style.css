@@ -37,8 +37,11 @@ header {
 
   
 }
+
 .section-title {
+  
   text-align: center;
+  padding-left: 250px;
 }
 .first-flex {
   margin-left: 185px;
