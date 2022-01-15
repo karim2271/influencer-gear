@@ -42,6 +42,12 @@ section {
   align-items: center;
   justify-content: space-evenly;
 }
+.see-more-button {
+  text-decoration: none;
+  text-align: right;
+  padding-right: 185px;
+  color: rgb(245, 17, 55);
+}
 .section4 {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -51,7 +57,7 @@ section {
 .button1 {
   margin-top: 20px;
   text-decoration: none;
-  background-image: linear-gradient(rgb(19, 23, 24), rgb(63, 228, 48));
+  background-image: linear-gradient(rgb(19, 23, 24), rgb(245, 17, 55));
   padding: 15px 32px;
   text-align: center;
   display: inline-block;
@@ -61,7 +67,7 @@ section {
 }
 .button2 {
   text-decoration: none;
-  background-image: linear-gradient(rgb(19, 23, 24), rgb(63, 228, 48));
+  background-image: linear-gradient(rgb(19, 23, 24), rgb(245, 17, 55));
   padding: 10px 40px;
   border-radius: 0 px;
   color: white;
